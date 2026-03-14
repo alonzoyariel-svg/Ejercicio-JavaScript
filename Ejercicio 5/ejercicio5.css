@@ -1,0 +1,9 @@
+body{
+font-family: Arial;
+text-align:center;
+}
+
+#resultado{
+max-width:600px;
+margin:auto;
+}
